@@ -1,0 +1,7 @@
+TicketId,User,Category,Priority,Status,Summary
+1001,Maya Patel,Onboarding,Medium,Closed,New hire laptop setup and first-day login support
+1002,Chris Morgan,Printer,Low,Closed,Unable to print to HP LaserJet on Floor 1
+1003,Riley Chen,AV,High,Escalated,Teams room camera not detected before executive meeting
+1004,Avery Smith,Microsoft 365,Medium,Open,Outlook profile repeatedly prompting for password
+1005,Jordan Lee,Offboarding,Medium,Open,Recover laptop and disable access after final day
+1006,Taylor Kim,Networking,Medium,Closed,Laptop connected to Wi-Fi but no internal resource access

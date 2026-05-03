@@ -1,0 +1,8 @@
+AssetTag,Type,Model,SerialNumber,AssignedTo,Status,Location
+LAP-1041,Laptop,Dell Latitude 5440,SN1041,Avery Smith,Assigned,HQ Floor 2
+LAP-1042,Laptop,Dell Latitude 5440,SN1042,,Available,IT Storage
+LAP-1043,Laptop,Lenovo ThinkPad T14,SN1043,,Available,IT Storage
+MON-2201,Monitor,Dell 24 USB-C,SN2201,,Available,IT Storage
+DOCK-3301,Dock,Dell WD19S,SN3301,,Available,IT Storage
+PRN-0101,Printer,HP LaserJet M404,SN0101,Shared,Active,HQ Floor 1
+AV-7001,AV,Logitech Rally Bar,SN7001,Conference Room A,Active,HQ Floor 3
